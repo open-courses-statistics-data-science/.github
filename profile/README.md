@@ -5,4 +5,3 @@ This organisation was created to host a range of freely available courses in sta
 ## Courses
 
 - <a href="https://github.com/open-courses-statistics-data-science/pipeline_tools" target="_blank">Using pipeline tools to ensure analyses are reproducible and understandable, via the targets package in R</a>
-- [test](https://github.com/open-courses-statistics-data-science/pipeline_tools){:target="_blank"}
