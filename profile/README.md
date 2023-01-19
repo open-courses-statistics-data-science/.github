@@ -26,3 +26,6 @@ This organisation was created to host a range of freely available courses in sta
 
 - [A day introduction to supervised machine learning](https://github.com/open-courses-statistics-data-science/introduction_to_supervised_ml)
 - TODO: add build it from scratch clustering two hour course
+- TODO: add unsupervised ML half day
+- TODO: add applied ML half day
+- TODO: add tSNE introduction build it from scratch
