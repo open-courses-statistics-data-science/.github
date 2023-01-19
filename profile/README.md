@@ -8,6 +8,7 @@ This organisation was created to host a range of freely available courses in sta
 
 - [Using pipeline tools to ensure analyses are reproducible and understandable, via the `targets` package in `R`](https://github.com/open-courses-statistics-data-science/pipeline_tools)
 - [Using pipeline tools to ensure analyses are reproducible and understandable, via `snakemake`](https://github.com/open-courses-statistics-data-science/pipeline_tools_snakemake)
+- Add using simulated data for reproducibility course
 
 
 ### Data science
@@ -29,3 +30,11 @@ This organisation was created to host a range of freely available courses in sta
 - TODO: add unsupervised ML half day
 - TODO: add applied ML half day
 - TODO: add tSNE introduction build it from scratch
+
+
+### Scientific writing and presentations
+
+- TODO: add LaTeX course
+- TODO: add presentations course
+- TODO: add scientific writing course
+
