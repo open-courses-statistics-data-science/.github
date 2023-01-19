@@ -18,7 +18,7 @@ This organisation was created to host a range of freely available courses in sta
 ### Statistics and probability
 
 - [A half-day introduction to Bayesian inference](https://github.com/ben18785/introduction_to_bayesian_inference)
-- - [A day introduction to Bayesian inference and Markov chain Monte Carlo (MCMC)](https://github.com/open-courses-statistics-data-science/introduction_to_bayesian_mcmc_mathbio)
+- [A day introduction to Bayesian inference and Markov chain Monte Carlo (MCMC)](https://github.com/open-courses-statistics-data-science/introduction_to_bayesian_mcmc_mathbio)
 - [A half-day introduction to probability, using `R`](https://github.com/open-courses-statistics-data-science/introduction_to_probability)
 
 ### Machine learning
