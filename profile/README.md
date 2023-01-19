@@ -12,12 +12,12 @@ This organisation was created to host a range of freely available courses in sta
 
 ### Data science
 
-- [A short introduction to grammar of graphics (via ggplot2)](https://github.com/open-courses-statistics-data-science/introduction_to_grammar_of_graphics)
+- [A short introduction to grammar of graphics (via `ggplot2`)](https://github.com/open-courses-statistics-data-science/introduction_to_grammar_of_graphics)
 
 
 ### Statistics and probability
 
-- [A half-day introduction to probability, using R](https://github.com/open-courses-statistics-data-science/introduction_to_probability)
+- [A half-day introduction to probability, using `R`](https://github.com/open-courses-statistics-data-science/introduction_to_probability)
 
 ### Machine learning
 
