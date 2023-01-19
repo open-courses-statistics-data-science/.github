@@ -18,3 +18,7 @@ This organisation was created to host a range of freely available courses in sta
 ### Statistics and probability
 
 - [A half-day introduction to probability, using R](https://github.com/open-courses-statistics-data-science/introduction_to_probability)
+
+### Machine learning
+
+- [A day introduction to supervised machine learning](https://github.com/open-courses-statistics-data-science/introduction_to_supervised_ml)
