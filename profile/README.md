@@ -14,6 +14,7 @@ This organisation was created to host a range of freely available courses in sta
 ### Data science
 
 - [A short introduction to grammar of graphics (via `ggplot2`)](https://github.com/open-courses-statistics-data-science/introduction_to_grammar_of_graphics)
+- add applied regression half day on predicting fish mass
 
 
 ### Statistics and probability
