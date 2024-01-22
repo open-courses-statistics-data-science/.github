@@ -25,4 +25,5 @@ This organisation was created to host a range of freely available courses in sta
 ### Machine learning
 
 - [A day introduction to supervised machine learning](https://github.com/open-courses-statistics-data-science/introduction_to_supervised_ml)
+- [A day introduction to unsupervised and supervised machine learning](https://github.com/open-courses-statistics-data-science/introduction_to_supervised_and_unsupervised_ml)
 
