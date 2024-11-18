@@ -9,6 +9,7 @@ This organisation was created to host a range of freely available courses in sta
 - [Using pipeline tools to ensure analyses are reproducible and understandable, via the `targets` package in `R`](https://github.com/open-courses-statistics-data-science/pipeline_tools)
 - [Using pipeline tools to ensure analyses are reproducible and understandable, via `snakemake`](https://github.com/open-courses-statistics-data-science/pipeline_tools_snakemake)
 - [How to make an R package](https://github.com/open-courses-statistics-data-science/how_to_make_r_package)
+- [A half-day introduction to code smells and reproducible analyses](https://github.com/open-courses-statistics-data-science/reproducible-data-analysis)
 
 
 ### Data science
